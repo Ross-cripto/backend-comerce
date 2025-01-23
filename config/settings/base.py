@@ -29,8 +29,6 @@ DJANGO_APPS = [
 
 LOCAL_APPS = [
     'apps.products',
-    'apps.inventory',
-    'apps.orders',
     'apps.users'
 ]
 
